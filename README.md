@@ -23,9 +23,9 @@ Para utilizar, basta copiar o codigo e implementar em seu projeto
 
 ## 🛠️ Construído com
 
-* [HTML](http://www.dropwizard.io/1.0.2/docs/) - Usado para marcar texto e elementos
-* [CSS](https://maven.apache.org/) - Usado para estilizar
-* [JavaScript](https://rometools.github.io/rome/) - Usada para controlar o relógio
+* [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - Usado para marcar texto e elementos
+* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Usado para estilizar
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) - Usada para controlar o relógio
 
 ## 📌 Versão
 
