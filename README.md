@@ -1,4 +1,4 @@
-#Digital Clock
+# Digital Clock
 
 Simples relógio digital moderno e estilizado.
 
@@ -27,25 +27,19 @@ Para utilizar, basta copiar o codigo e implementar em seu projeto
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Usado para estilizar
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) - Usada para controlar o relógio
 
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
 ## ✒️ Autores
 
 * **Rayan Diniz** - *Trabalho Inicial* - [Rayan Diniz](https://github.com/rayandiniz)
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/ryandiniz/digital-clock) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
-
+* Você pode ajudar me pagando uma cerveja 🍺
+    PayPal = ryancassio_kiol@hotmail.com
+* Agradeço a todos publicamente 🤓.
 
 ---
 ⌨️ com ❤️ por [Rayan Diniz](https://gist.github.com/RyanDiniz) 😊
