@@ -33,7 +33,7 @@ Para utilizar, basta copiar o codigo e implementar em seu projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/ryandiniz/digital-clock) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/ryandiniz/digital-clock](https://github.com/RayanDiniz/Digital-Clock/blob/master/LICENSE.md) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
