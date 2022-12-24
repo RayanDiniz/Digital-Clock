@@ -4,7 +4,7 @@ Simples relógio digital moderno e estilizado.
 
 ## 🚀 Começando
 
-Pequeno tamplate frontend feito com HTML, CSS e JavaScript de um relógio digital moderno e estiloso.
+Pequeno tamplate frontend feito com HTML, CSS e JavaScript de um relógio digital moderno e estiloso. Veja exemplo [aqui](https://digitalclock-rayandiniz.netlify.app/).
 
 ### 📋 Pré-requisitos
 
